@@ -1,0 +1,11 @@
+{
+  "name": "s3_lambda_dynamodb",
+  "description": "**s3_lambda_dynamodb**",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gerswin/s3_lambda_dynamodb.git"
+  },
+  "author": "Gerswin Pineda",
+  "license": "ISC"
+}
